@@ -1,0 +1,4 @@
+name: tf-psa-crypto-drivers
+build:
+  cmake-ext: False
+  kconfig-ext: False
